@@ -1,7 +1,7 @@
-<h1 align="center"> LinkTree </h1>
+<h1 align="center"> Projeto Galaxies </h1>
 
 <p align="center">
-Projeto Galaxies<br/>
+Aquecendo o GRID CSS<br/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@ Projeto Galaxies<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
